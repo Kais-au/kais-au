@@ -1,80 +1,38 @@
-<!-- ### Hi there 👋
+# Hi👋, I'm Mitch\_
 
-<!--
-**Kais-au/kais-au** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi👋, I'm Kais\_
-
-### A passionate Junior Software Developer in the making!💡
+<i><h3>A passionate Junior Software Developer in the making!💡</h3></i>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kais-au&label=Profile%20views&color=469dd2&style=flat" alt="Profile Views" /> </p>
-<p align="left"> <img src="https://img.shields.io/github/commit-activity/w/kais-au/kais-au.github.io?color=%23BFD7EA&label=Portfolio%20Commits&style=for-the-badge" alt="Portfolio Commits" /> </p>
+<img src="https://komarev.com/ghpvc/?username=kais-au&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views"/> <a href="https://github.com/Kais-au/kais-au.github.io"><img src="https://img.shields.io/github/commit-activity/w/kais-au/kais-au.github.io?label=Portfolio%20Commits&color=blue&style=flat" alt="Portfolio Commits"/></a> <a href="https://linkedin.com/in/mitchell-cunnington-aa986b243"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&color=0077B5&style=flat&logo=linkedin" alt="LinkedIn"/></a> <a href="https://discord.gg/B8df4rRzaK"><img src="https://img.shields.io/static/v1?label=Discord&message=join&color=7289DA&style=flat&logo=discord" alt="Discord"/></a> <img alt="GitHub followers" src="https://img.shields.io/github/followers/kais-au?label=Followers&color=161B22&logo=github">
 
-<!-- ---
+<b><h2 align="left">A Bit About Me</h2></b>
 
-## **Features**
+- 🔭 I’m currently working on **[this portfolio project!](https://github.com/Kais-au/kais-au.github.io)**
 
-### Sections
+- 🌱 I’m currently learning
 
-- Landing Page
-  - Navbar + Icons
-- About Page
-- Tech Stacks Page
-- Projects Page
-  - External links to projects
-- Contact Page -->
+  - Html
+  - Css
+  - Scss
+  - JS
 
----
+    </br>
 
-<!-- ## **Roadmap**
+- 👨‍💻 All of my projects will be available at **[https://kais-au.github.io/](https://kais-au.github.io/)**
 
-- [x] Complete layout skeleton of portfolio
-- [ ] Build pages
-  - [ ] Landing page
-    - [ ] Build navbar
-  - [ ] About page
-    - [ ] Breakdown of work history and interests
-  - [ ] Tech Stacks page
-    - [ ] Desc of techs learnt during course
-  - [ ] Project page
-    - [ ] Link project repos and configure README.md's
-  - [ ] Contact page
-    - [ ] Github link and socials
-- [ ] Style pages
-- [ ] Animate pages
-- [ ] Push from develop to main
-
---- -->
-
-- 🔭 I’m currently working on [this portfolio project!](https://github.com/Kais-au/kais-au.github.io)
-
-- 🌱 I’m currently learning **html, css, scss, js.**
-
-- 👨‍💻 All of my projects will be available at [https://kais-au.github.io/](https://kais-au.github.io/)
-
-- ⚡ Fun fact **I manage for an [eSports organisation](https://valkyriegaming.com.au)!**
+- ⚡ Fun fact I manage for an **[eSports organisation](https://valkyriegaming.com.au)!**
 
 - 📫 How to reach me **<dev@kais.net.au>**
 
-<h3 align="left">Connect with me:</h3>
+<b><h2 align="left">Connect with me:</h2></b>
+
 <p align="left">
 <a href="https://linkedin.com/in/mitchell-cunnington-aa986b243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitchell-cunnington-aa986b243/" height="30" width="40" /></a>
 </p>
 
+<br>
+
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kais-au&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kais-au" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kais-au&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" /></p>
