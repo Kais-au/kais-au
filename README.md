@@ -12,10 +12,10 @@
 
 - 🌱 I’m currently learning
 
+  - JavaScript
   - Html
   - Css
   - Scss
-  - JS
 
     </br>
 
