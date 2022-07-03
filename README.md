@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[this portfolio project!](https://github.com/Kais-au/kais-au.github.io)**
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
 
   - JavaScript
   - Html
